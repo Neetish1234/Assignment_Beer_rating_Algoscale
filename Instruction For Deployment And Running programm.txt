@@ -1,0 +1,15 @@
+                         Instruction For Deployment And Running programm : 
+
+1)For Python please open Anaconda prompt type Jupyter notebook and load ipynb file and run the code 
+2)Just Click on the file named "read me" for Asignment overview 
+3) Beer_Dataset is placed in form of Excel Sheet 
+
+
+-------------	Software and Hardware Requirement:------------------------
+
+A)	Anaconda 3 for 64 bit
+B)	R studio
+C)	64 bit OS
+D)	Python 3
+E)	Jupyter Notebook
+F)	4GB of RAM
